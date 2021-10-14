@@ -29,4 +29,3 @@ class Matakuliah extends CI_Controller
      }
      }
     }
-    
